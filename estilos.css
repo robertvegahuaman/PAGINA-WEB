@@ -1,0 +1,17 @@
+body{
+    background-image: url(/img/PECANAS\ 8.jpg);
+}
+
+h1 { 
+    text-align: center;
+    color: #E00512
+    font-family: "fasthand"; cursive;
+ }
+p  {
+text-align: center;
+font-size: 2.5em;
+color:#0708F7
+-webkit-text-stroke: 1px #2E0633;
+font-family: "fasthand"; cursive;
+
+}
