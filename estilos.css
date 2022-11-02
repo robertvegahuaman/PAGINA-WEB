@@ -4,14 +4,22 @@ body{
 
 h1 { 
     text-align: center;
-    color: #E00512
+    color: #A70D00;
     font-family: "fasthand"; cursive;
+    font-size: 2.5em;
  }
 p  {
 text-align: center;
-font-size: 2.5em;
-color:#0708F7
--webkit-text-stroke: 1px #2E0633;
+font-size: 2.3em;
+color:#013304;
+-webkit-text-stroke: 2px #013304;
 font-family: "fasthand"; cursive;
 
 }
+h2 {
+    text-align: center;
+    color:#A70D00;
+font-family:"fasthand"; cursive;
+font-size: 2.5em;
+}
+
